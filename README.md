@@ -8,7 +8,7 @@ MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering
 **[Project Page [This Page]](https://github.com/bytedance/MTVQA)** | **[Paper](https://arxiv.org/abs/2405.11985)** |**[Dataset and Leaderboard](https://huggingface.co/datasets/ByteDance/MTVQA)**|
 
 # Data
-| [RawData] (https://drive.google.com/file/d/1u09EVNVj17ws_AHEB7Y0eZiSPseTJUTx/view?usp=sharing) | [Huggingface Dataset](https://huggingface.co/datasets/ByteDance/MTVQA)
+| [RawData](https://drive.google.com/file/d/1u09EVNVj17ws_AHEB7Y0eZiSPseTJUTx/view?usp=sharing) | [Huggingface Dataset](https://huggingface.co/datasets/ByteDance/MTVQA)
 
 # Evaluation
 The test code for evaluating models in the paper can be found in [scripts](./scripts)
