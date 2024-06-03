@@ -14,7 +14,7 @@ MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering
 # Evaluation
 The test code for evaluating models in the paper can be found in [scripts](./scripts).
 
-If you want to add your results to the MTVQA leaderboard, you can email me directly at tangjingqun@bytedance.com.
+If you want to add your results to the MTVQA leaderboard, you can email us directly at tangjingqun@bytedance.com or haoliu.0128@bytedance.com.
 
 # LeaderBoard
 
