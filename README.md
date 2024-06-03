@@ -18,7 +18,6 @@ If you want to add your results to the MTVQA leaderboard, you can email us direc
 
 # LeaderBoard
 
-## - LeaderBoard
 <table style="width:75%;">
     <tr>
         <th>Models</th>
