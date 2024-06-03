@@ -129,7 +129,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>17.8  </td>
     </tr>
     <tr>
-        <th align="left">MiniCPM-Llama3-V-2_5</th>
+        <th align="left">MiniCPM-V2.5</th>
         <td>6.1 </td>
         <td>29.6 </td>
         <td>35.7 </td>
@@ -233,7 +233,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>9.9  </td>
     </tr>
     <tr>
-        <th align="left">MiniCPM-V-2</th>
+        <th align="left">MiniCPM-V2.0</th>
         <td>1.3 </td>
         <td>12.7 </td>
         <td>14.9 </td>
