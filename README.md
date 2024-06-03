@@ -9,7 +9,7 @@ MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering
 |**[🍎 Project Page [This Page]](https://github.com/bytedance/MTVQA)** | **[📖 Paper](https://arxiv.org/abs/2405.11985)** |**[📊 Dataset](https://huggingface.co/datasets/ByteDance/MTVQA)** | **[🏆 Leaderboard](https://github.com/bytedance/MTVQA?tab=readme-ov-file#-leaderboard)** 
 
 ## 🔥 News
-* **`2024.06.03`** 🌟 We are glad to launch MTVQA, the first multilingual visual text comprehension evaluation benchmark for MLLMs!
+* **`2024.06.03`** 🌟 We are excited to launch MTVQA, the first multilingual visual text comprehension evaluation benchmark for MLLMs!
 
 
 ## 👀 Data
