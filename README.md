@@ -10,7 +10,7 @@ MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering
 
 ## 🔥 News
 * **`2024.06.04`** 🌟 We are excited to launch MTVQA, the first multilingual visual text comprehension evaluation benchmark for MLLMs! MTVQA includes **9** widely-used but low-resource languages, i.t., AR, DE, FR, IT, JA, KO, RU, TH, and VI.
-
+* **`2024.06.04`** 🌟 GPT-4o achieves the best performance overall, MiniCPM-V2.5 achieves the best performance among open-source models!
 
 ## 👀 Data
 | [RawData (Google Drive)](https://drive.google.com/file/d/1u09EVNVj17ws_AHEB7Y0eZiSPseTJUTx/view?usp=sharing) | [Huggingface Dataset](https://huggingface.co/datasets/ByteDance/MTVQA)
