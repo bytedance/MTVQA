@@ -26,6 +26,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
 <table style="width:75%;">
     <tr>
         <th>Models</th>
+        <td><b>Open-Source</b></td>
         <td><b>AR</b></td>
         <td><b><b>DE</b></td>
         <td><b>FR</b></td>
@@ -39,6 +40,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
     </tr>
     <tr>
         <th align="left"><font color=darkred>GPT-4o 🥇</font></th>
+        <td align="middle">✘</td>
         <td>20.2 </td>
         <td>34.2 </td>
         <td>41.2 </td>
@@ -52,6 +54,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
     </tr>
     <tr>
         <th align="left"><font color=darkred>Claude3 Opus 🥈</font></th>
+        <td align="middle">✘</td>
         <td>15.1 </td>
         <td>33.4 </td>
         <td>40.6 </td>
@@ -65,6 +68,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
     </tr>
     <tr>
         <th align="left"><font color=darkred>Gemini Ultra 🥉</font></th>
+        <td align="middle">✘</td>
         <td>14.7 </td>
         <td>32.3 </td>
         <td>40.0 </td>
@@ -78,6 +82,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
     </tr>
     <tr>
         <th align="left">GPT-4V</th>
+        <td align="middle">✘</td>
         <td>11.5 </td>
         <td>31.5 </td>
         <td>40.4 </td>
@@ -91,6 +96,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
     </tr>
     <tr>
         <th align="left">QwenVL Max</th>
+        <td align="middle">✘</td>
         <td>7.7 </td>
         <td>31.4 </td>
         <td>37.6 </td>
@@ -104,6 +110,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
     </tr>
     <tr>
         <th align="left">Claude3 Sonnet</th>
+        <td align="middle">✘</td>
         <td>10.5 </td>
         <td>28.9 </td>
         <td>35.6 </td>
@@ -117,6 +124,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
     </tr>
     <tr>
         <th align="left">QwenVL Plus</th>
+        <td align="middle">✘</td>
         <td>4.8 </td>
         <td>28.8 </td>
         <td>33.7 </td>
@@ -130,6 +138,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
     </tr>
     <tr>
         <th align="left"><font color=blue>MiniCPM-V2.5</font></th>
+        <td align="middle">✅</td>
         <td>6.1 </td>
         <td>29.6 </td>
         <td>35.7 </td>
@@ -143,6 +152,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
     </tr>
     <tr>
         <th align="left">InternVL-V1.5</th>
+        <td align="middle">✅</td>
         <td>3.4 </td>
         <td>27.1 </td>
         <td>31.4 </td>
@@ -156,6 +166,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
     </tr>
     <tr>
         <th align="left">GLM4V</th>
+        <td align="middle">✘</td>
         <td>0.3 </td>
         <td>30.0 </td>
         <td>34.1 </td>
@@ -169,6 +180,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
     </tr>
     <tr>
         <th align="left">TextSquare</th>
+        <td align="middle">✅</td>
         <td>3.7 </td>
         <td>27.0 </td>
         <td>30.8 </td>
@@ -182,6 +194,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
     </tr>
     <tr>
         <th align="left">Mini-Gemini-HD-34B</th>
+        <td align="middle">✅</td>
         <td>2.2 </td>
         <td>25.0 </td>
         <td>29.2 </td>
@@ -195,6 +208,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
     </tr>
     <tr>
         <th align="left">InternLM-Xcomposer2-4KHD</th>
+        <td align="middle">✅</td>
         <td>2.0 </td>
         <td>20.6 </td>
         <td>23.2 </td>
@@ -208,6 +222,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
     </tr>
     <tr>
         <th align="left">Llava-Next-34B</th>
+        <td align="middle">✅</td>
         <td>3.3 </td>
         <td>24.0 </td>
         <td>28.0 </td>
@@ -221,6 +236,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
     </tr>
     <tr>
         <th align="left">TextMonkey</th>
+        <td align="middle">✅</td>
         <td>2.0 </td>
         <td>18.1 </td>
         <td>19.9 </td>
@@ -234,6 +250,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
     </tr>
     <tr>
         <th align="left">MiniCPM-V2.0</th>
+        <td align="middle">✅</td>
         <td>1.3 </td>
         <td>12.7 </td>
         <td>14.9 </td>
@@ -247,6 +264,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
     </tr>
     <tr>
         <th align="left">mPLUG-DocOwl 1.5</th>
+        <td align="middle">✅</td>
         <td>1.0 </td>
         <td>13.9 </td>
         <td>14.9 </td>
@@ -260,6 +278,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
     </tr>
     <tr>
         <th align="left">YI-VL-34B</th>
+        <td align="middle">✅</td>
         <td>1.7 </td>
         <td>13.5 </td>
         <td>15.7 </td>
@@ -273,6 +292,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
     </tr>
     <tr>
         <th align="left">DeepSeek-VL</th>
+        <td align="middle">✅</td>
         <td>0.6 </td>
         <td>14.2 </td>
         <td>15.3 </td>
