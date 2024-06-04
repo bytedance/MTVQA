@@ -38,7 +38,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td><b>Average</b> </td>
     </tr>
     <tr>
-        <th style="color:darkred" align="left">GPT-4o 🥇</th>
+        <th align="left"><font color=darkred>GPT-4o 🥇</font></th>
         <td>20.2 </td>
         <td>34.2 </td>
         <td>41.2 </td>
@@ -48,10 +48,10 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>11.5 </td>
         <td>22.5 </td>
         <td>34.2 </td>
-        <td style="color:red"><b>27.8</b> </td>
+        <td><font color=red><b>27.8</b></font></td>
     </tr>
     <tr>
-        <th style="color:darkred" align="left">Claude3 Opus 🥈</th>
+        <th align="left"><font color=darkred>Claude3 Opus 🥈</font></th>
         <td>15.1 </td>
         <td>33.4 </td>
         <td>40.6 </td>
@@ -61,10 +61,10 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>13.0 </td>
         <td>19.5 </td>
         <td>29.1 </td>
-        <td style="color:red;"><b>25.7</b> </td>
+        <td><font color=red><b>25.7</b></font> </td>
     </tr>
     <tr>
-        <th align="left" style="color:darkred;">Gemini Ultra 🥉</th>
+        <th align="left"><font color=darkred>Gemini Ultra 🥉</font></th>
         <td>14.7 </td>
         <td>32.3 </td>
         <td>40.0 </td>
@@ -74,7 +74,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>11.8 </td>
         <td>20.3 </td>
         <td>28.6 </td>
-        <td style="color:red;"><b>23.2</b> </td>
+        <td><font color=red><b>23.2</b></font></td>
     </tr>
     <tr>
         <th align="left">GPT-4V</th>
@@ -129,7 +129,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>17.8  </td>
     </tr>
     <tr>
-        <th style="color:green" align="left"> MiniCPM-V2.5</th>
+        <th align="left"><font color=blue>MiniCPM-V2.5</font></th>
         <td>6.1 </td>
         <td>29.6 </td>
         <td>35.7 </td>
@@ -139,7 +139,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>5.7 </td>
         <td>12.6 </td>
         <td>15.3 </td>
-        <td style="color:green"><b>17.3 </b> </td>
+        <td><font color=blue><b>17.3 </b></font></td>
     </tr>
     <tr>
         <th align="left">InternVL-V1.5</th>
