@@ -38,7 +38,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td><b>Average</b> </td>
     </tr>
     <tr>
-        <th align="left" style="color:darkred;">GPT-4o 🥇</th>
+        <th style="color:darkred" align="left">GPT-4o 🥇</th>
         <td>20.2 </td>
         <td>34.2 </td>
         <td>41.2 </td>
@@ -48,10 +48,10 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>11.5 </td>
         <td>22.5 </td>
         <td>34.2 </td>
-        <td style="color:red;"><b>27.8</b> </td>
+        <td style="color:red"><b>27.8</b> </td>
     </tr>
     <tr>
-        <th align="left" style="color:darkred;">Claude3 Opus 🥈</th>
+        <th style="color:darkred" align="left">Claude3 Opus 🥈</th>
         <td>15.1 </td>
         <td>33.4 </td>
         <td>40.6 </td>
@@ -129,7 +129,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>17.8  </td>
     </tr>
     <tr>
-        <th align="left">MiniCPM-V2.5</th>
+        <th style="color:green" align="left"> MiniCPM-V2.5</th>
         <td>6.1 </td>
         <td>29.6 </td>
         <td>35.7 </td>
@@ -139,7 +139,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>5.7 </td>
         <td>12.6 </td>
         <td>15.3 </td>
-        <td>17.3  </td>
+        <td style="color:green"><b>17.3 </b> </td>
     </tr>
     <tr>
         <th align="left">InternVL-V1.5</th>
@@ -243,7 +243,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>2.2 </td>
         <td>2.2 </td>
         <td>6.8 </td>
-        <td>7.4  </td>
+        <td>7.4 </td>
     </tr>
     <tr>
         <th align="left">mPLUG-DocOwl 1.5</th>
