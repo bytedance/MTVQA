@@ -53,7 +53,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>- </td>
         <td>- </td>
         <td>- </td>
-        <td><font color=red><b>27.8</b></font></td>
+        <td><font color=red><b>32.6</b></font></td>
     </tr>
     <tr>
         <th align="left"><font color=darkred>GPT-4o 🥈 </font></th>
