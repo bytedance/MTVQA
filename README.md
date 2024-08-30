@@ -9,6 +9,7 @@ MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering
 |**[🍎 Project Page](https://bytedance.github.io/MTVQA/)** | **[📖 Paper](https://arxiv.org/abs/2405.11985)** |**[📊 Dataset](https://huggingface.co/datasets/ByteDance/MTVQA)** | **[🏆 Leaderboard](https://github.com/bytedance/MTVQA?tab=readme-ov-file#-leaderboard)** 
 
 ## 🔥 News
+* **`2024.06.04`** 🌟 Qwen2VL 72B achieves the best performance overall!
 * **`2024.07.23`** 🌟 MTVQA is now supported in [VLMEvalKit](https://github.com/open-compass/VLMEvalKit).
 * **`2024.07.23`** 🌟 MTVQA is now supported in [OpenCompass](https://opencompass.org.cn/home).
 * **`2024.06.04`** 🌟 We are excited to launch MTVQA, the first multilingual visual text comprehension evaluation benchmark for MLLMs! MTVQA includes **9** widely-used but low-resource languages, i.t., AR, DE, FR, IT, JA, KO, RU, TH, and VI.
@@ -41,7 +42,21 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td><b>Average</b> </td>
     </tr>
     <tr>
-        <th align="left"><font color=darkred>GPT-4o 🥇</font></th>
+        <th align="left"><font color=darkred>Qwen2VL 72B🥇</font></th>
+        <td align="middle">✘</td>
+        <td>- </td>
+        <td>- </td>
+        <td>- </td>
+        <td>- </td>
+        <td>- </td>
+        <td>- </td>
+        <td>- </td>
+        <td>- </td>
+        <td>- </td>
+        <td><font color=red><b>27.8</b></font></td>
+    </tr>
+    <tr>
+        <th align="left"><font color=darkred>GPT-4o 🥈 </font></th>
         <td align="middle">✘</td>
         <td>20.2 </td>
         <td>34.2 </td>
@@ -55,7 +70,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td><font color=red><b>27.8</b></font></td>
     </tr>
     <tr>
-        <th align="left"><font color=darkred>Claude3 Opus 🥈</font></th>
+        <th align="left"><font color=darkred>Claude3 Opus 🥉 </font></th>
         <td align="middle">✘</td>
         <td>15.1 </td>
         <td>33.4 </td>
@@ -69,7 +84,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td><font color=red><b>25.7</b></font> </td>
     </tr>
     <tr>
-        <th align="left"><font color=darkred>Gemini Ultra 🥉</font></th>
+        <th align="left"><font color=darkred>Gemini Ultra </font></th>
         <td align="middle">✘</td>
         <td>14.7 </td>
         <td>32.3 </td>
