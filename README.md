@@ -9,6 +9,7 @@ MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering
 |**[🍎 Project Page](https://bytedance.github.io/MTVQA/)** | **[📖 Paper](https://arxiv.org/abs/2405.11985)** |**[📊 Dataset](https://huggingface.co/datasets/ByteDance/MTVQA)** | **[🏆 Leaderboard](https://github.com/bytedance/MTVQA?tab=readme-ov-file#-leaderboard)** 
 
 ## 🔥 News
+* **`2024.09.04`** 🌟 InternVL2 tests its performance on MTVQA, InternVL2 76B model outperforms GPT-4V, thanks to the [InternVL2](https://internvl.readthedocs.io/en/latest/internvl2.0/evaluation.html#mtvqa) team. 
 * **`2024.08.30`** 🌟 Qwen2VL 72B is released, outperforming GPT-4o and achieving the best performance overall, congratulations!
 * **`2024.07.23`** 🌟 MTVQA is now supported in [VLMEvalKit](https://github.com/open-compass/VLMEvalKit).
 * **`2024.07.23`** 🌟 MTVQA is now supported in [OpenCompass](https://opencompass.org.cn/home).
@@ -42,18 +43,18 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td><b>Average</b> </td>
     </tr>
     <tr>
-        <th align="left"><font color=darkred>Qwen2VL 72B🥇</font></th>
+        <th align="left"><font color=darkred>Qwen2-VL 72B🥇</font></th>
         <td align="middle">✘</td>
-        <td>- </td>
-        <td>- </td>
-        <td>- </td>
-        <td>- </td>
-        <td>- </td>
-        <td>- </td>
-        <td>- </td>
-        <td>- </td>
-        <td>- </td>
-        <td><font color=red><b>32.6</b></font></td>
+        <td>20.7 </td>
+        <td>36.5 </td>
+        <td>44.1 </td>
+        <td>42.8 </td>
+        <td>21.6 </td>
+        <td>37.4 </td>
+        <td>15.6 </td>
+        <td>17.7 </td>
+        <td>41.6 </td>
+        <td><font color=red><b>30.9</b></font></td>
     </tr>
     <tr>
         <th align="left"><font color=darkred>GPT-4o 🥈 </font></th>
@@ -81,7 +82,21 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>13.0 </td>
         <td>19.5 </td>
         <td>29.1 </td>
-        <td><font color=red><b>25.7</b></font> </td>
+        <td><font color=red> <b> 25.7 </b> </font> </td>
+    </tr>
+    <tr>
+        <th align="left"><font color=darkred>Qwen2-VL 7B </font></th>
+        <td align="middle"> ✅ </td>
+        <td>15.5 </td>
+        <td>32.1 </td>
+        <td>41.6 </td>
+        <td>38.9 </td>
+        <td>17.8 </td>
+        <td>30.6 </td>
+        <td>13.0 </td>
+        <td>10.8 </td>
+        <td>30.0 </td>
+        <td><font color=red>25.6</font></td>
     </tr>
     <tr>
         <th align="left"><font color=darkred>Gemini Ultra </font></th>
@@ -95,7 +110,21 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>11.8 </td>
         <td>20.3 </td>
         <td>28.6 </td>
-        <td><font color=red><b>23.2</b></font></td>
+        <td><font color=red>23.2</font></td>
+    </tr>
+     <tr>
+        <th align="left">InternVL2 76B</th>
+        <td align="middle"> ✅ </td>
+        <td>9.5 </td>
+        <td>31.3 </td>
+        <td>35.7 </td>
+        <td>35.2 </td>
+        <td>11.1 </td>
+        <td>14.3 </td>
+        <td>11.9 </td>
+        <td>10.0 </td>
+        <td>26.9 </td>
+        <td>22.0 </td>
     </tr>
     <tr>
         <th align="left">GPT-4V</th>
