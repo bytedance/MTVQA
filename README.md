@@ -9,6 +9,8 @@ MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering
 |**[🍎 Project Page](https://bytedance.github.io/MTVQA/)** | **[📖 Paper](https://arxiv.org/abs/2405.11985)** |**[📊 Dataset](https://huggingface.co/datasets/ByteDance/MTVQA)** | **[🏆 Leaderboard](https://github.com/bytedance/MTVQA?tab=readme-ov-file#-leaderboard)** 
 
 ## 🔥 News
+
+* **`2024.09.09`** 🌟 We test GPT-4o mini's performance on MTVQA and it performs exceptionally well among the leading lightweight MLLMs!
 * **`2024.09.04`** 🌟 InternVL2 tests its performance on MTVQA, InternVL2 76B model outperforms GPT-4V, thanks to the [InternVL2](https://internvl.readthedocs.io/en/latest/internvl2.0/evaluation.html#mtvqa) team. 
 * **`2024.08.30`** 🌟 Qwen2VL 72B is released, outperforming GPT-4o and achieving the best performance overall, congratulations!
 * **`2024.07.23`** 🌟 MTVQA is now supported in [VLMEvalKit](https://github.com/open-compass/VLMEvalKit).
@@ -97,6 +99,20 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>10.8 </td>
         <td>30.0 </td>
         <td><font color=red>25.6</font></td>
+    </tr>
+    <tr>
+        <th align="left"><font color=darkred>GPT-4o mini </font></th>
+        <td align="middle"> ✘ </td>
+        <td>16.9 </td>
+        <td>33.0 </td>
+        <td>41.2 </td>
+        <td>32.1 </td>
+        <td>18.5 </td>
+        <td>27.4 </td>
+        <td>11.5 </td>
+        <td>19.9 </td>
+        <td>29.1 </td>
+        <td><font color=red>25.5</font></td>
     </tr>
     <tr>
         <th align="left"><font color=darkred>Gemini Ultra </font></th>
