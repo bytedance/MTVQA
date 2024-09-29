@@ -10,7 +10,7 @@ MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering
 
 ## 🔥 News
 
-* **`2024.09.09`** 🌟 The Blue LM team from VIVO tests their BlueLM-V-3B performance on MTVQA and it ranks the third place among all the SOTA MLLMs!
+* **`2024.09.09`** 🌟 The Blue LM team from VIVO tests their BlueLM-V-3B performance on MTVQA. BlueLM-V-3B achieves performance comparable to GPT-4o. and it ranks the third place among all the SOTA MLLMs!
 * **`2024.09.09`** 🌟 We test GPT-4o mini's performance on MTVQA and it performs exceptionally well among the leading lightweight MLLMs!
 * **`2024.09.04`** 🌟 InternVL2 tests its performance on MTVQA, InternVL2 76B model outperforms GPT-4V, thanks to the [InternVL2](https://internvl.readthedocs.io/en/latest/internvl2.0/evaluation.html#mtvqa) team. 
 * **`2024.08.30`** 🌟 Qwen2VL 72B is released, outperforming GPT-4o and achieving the best performance overall, congratulations!
@@ -71,7 +71,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>11.5 </td>
         <td>22.5 </td>
         <td>34.2 </td>
-        <td><font color=red><b>27.1</b></font></td>
+        <td><font color=red><b>27.8</b></font></td>
     </tr>
     <tr>
         <th align="left"><font color=darkred>BlueLM-V-3B 🥉 </font></th>
@@ -85,7 +85,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>9.2 </td>
         <td>20.3 </td>
         <td>22.9 </td>
-        <td><font color=red> <b> 25.7 </b> </font> </td>
+        <td><font color=red> <b> 27.0 </b> </font> </td>
     </tr>
     <tr>
         <th align="left"><font color=darkred>Claude3 Opus  </font></th>
@@ -99,7 +99,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>13.0 </td>
         <td>19.5 </td>
         <td>29.1 </td>
-        <td><font color=red> <b> 25.7 </b> </font> </td>
+        <td><font color=red> 25.7  </font> </td>
     </tr>
     <tr>
         <th align="left"><font color=darkred>Qwen2-VL 7B </font></th>
