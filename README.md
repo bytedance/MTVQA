@@ -10,7 +10,7 @@ MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering
 
 ## 🔥 News
 
-* **`2024.09.09`** 🌟 The Blue LM team from VIVO tests their BlueLM-V-3B performance on MTVQA. BlueLM-V-3B achieves performance comparable to GPT-4o. and it ranks the third place among all the SOTA MLLMs!
+* **`2024.09.29`** 🌟 The Blue LM team from VIVO tests their BlueLM-V-3B performance on MTVQA. BlueLM-V-3B achieves performance comparable to GPT-4o. and it ranks the third place among all the SOTA MLLMs!
 * **`2024.09.09`** 🌟 We test GPT-4o mini's performance on MTVQA and it performs exceptionally well among the leading lightweight MLLMs!
 * **`2024.09.04`** 🌟 InternVL2 tests its performance on MTVQA, InternVL2 76B model outperforms GPT-4V, thanks to the [InternVL2](https://internvl.readthedocs.io/en/latest/internvl2.0/evaluation.html#mtvqa) team. 
 * **`2024.08.30`** 🌟 Qwen2VL 72B is released, outperforming GPT-4o and achieving the best performance overall, congratulations!
