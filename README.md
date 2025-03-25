@@ -9,8 +9,11 @@ MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering
 |**[🍎 Project Page](https://bytedance.github.io/MTVQA/)** | **[📖 Paper](https://arxiv.org/abs/2405.11985)** |**[📊 Dataset](https://huggingface.co/datasets/ByteDance/MTVQA)** | **[🏆 Leaderboard](https://github.com/bytedance/MTVQA?tab=readme-ov-file#-leaderboard)** 
 
 ## 🔥 News
+
+* **`2025.03.25`** 🌟 The [Elice](https://elice.io/en) team from Korea tests their MLLM **Helpy-V Reasoning** on MTVQA. Helpy-V Reasoning ranks **Second** among all models, and notably, its performance in **Korean Text comprehension** is far superior to previous SOTA models. Congratulations to the Elice team!
+* 
 * **`2024.12.12`** 🌟 InternVL2.5 tests its performance on MTVQA, InternVL2.5 78B model outperforms Qwen2VL 76B and achieves the SOTA performance, congratulations to the [InternVL2.5](https://github.com/OpenGVLab/InternVL?tab=readme-ov-file) team!
-* **`2024.09.29`** 🌟 The Blue LM team from VIVO tests their BlueLM-V-3B performance on MTVQA. BlueLM-V-3B achieves performance comparable to GPT-4o. and it ranks the third place among all the SOTA MLLMs!
+* **`2024.09.29`** 🌟 The Blue LM team from VIVO tests their BlueLM-V-3B performance on MTVQA. BlueLM-V-3B achieves performance comparable to GPT-4o. It ranks the third place among all the SOTA MLLMs!
 * **`2024.09.09`** 🌟 We test GPT-4o mini's performance on MTVQA and it performs exceptionally well among the leading lightweight MLLMs!
 * **`2024.09.04`** 🌟 InternVL2 tests its performance on MTVQA, InternVL2 76B model outperforms GPT-4V, thanks to the [InternVL2](https://internvl.readthedocs.io/en/latest/internvl2.0/evaluation.html#mtvqa) team. 
 * **`2024.08.30`** 🌟 Qwen2VL 72B is released, outperforming GPT-4o and achieving the best performance overall, congratulations!
@@ -26,7 +29,7 @@ MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering
 ## 🔮 Evaluation
 The test code for evaluating models in the paper can be found in [scripts](./scripts).
 
-If you want to add your results to the MTVQA leaderboard, feel free to email us directly at tangjingqun@bytedance.com , haoliu.0128@bytedance.com or can.huang@bytedance.com.
+If you want to add your results to the MTVQA leaderboard, feel free to email us directly at tangjingqun@bytedance.com, haoliu.0128@bytedance.com or can.huang@bytedance.com.
 
 ## 🏆 LeaderBoard
 
@@ -45,24 +48,38 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td><b>VI</b></td>
         <td><b>Average</b> </td>
     </tr>
-     <tr>
-        <th align="left"><font color=darkred>InternVL2.5 78B🥇</font></th>
+    <tr>
+        <th align="left"><font color=darkred>InternVL2.5 78B 🥇 </font></th>
         <td align="middle">✅ </td>
-        <td>- </td>
-        <td>- </td>
-        <td>- </td>
-        <td>- </td>
-        <td>- </td>
-        <td>- </td>
-        <td>- </td>
-        <td>- </td>
-        <td>- </td>
+        <td> 15.9 </td>
+        <td> 39.0 </td>
+        <td> 45.6 </td>
+        <td> 42.9 </td>
+        <td> 21.1 </td>
+        <td> 33.9 </td>
+        <td> 12.2 </td>
+        <td> 23.8 </td>
+        <td> 41.5 </td>
         <td><font color=red><b>31.9</b></font></td>
      </tr>
+     <tr>
+        <th align="left"><font color=darkred> Helpy-V Reasoning 🥈 </font></th>
+        <td align="middle">✘ </td>
+        <td> 16.6 </td>
+        <td> 34.7 </td>
+        <td>40.0 </td>
+        <td>39.6 </td>
+        <td>20.2 </td>
+        <td> 43.5 </td>
+        <td> 13.6 </td>
+        <td>13.0 </td>
+        <td> 46.6 </td>
+        <td><font color=red>31.6</font></td>
+     </tr>
     <tr>
-        <th align="left"><font color=darkred>Qwen2-VL 72B🥈</font></th>
+        <th align="left"><font color=darkred>Qwen2-VL 72B 🥉 </font></th>
         <td align="middle">✅ </td>
-        <td>20.7 </td>
+        <td> <u> 20.7 </u> </td>
         <td>36.5 </td>
         <td>44.1 </td>
         <td>42.8 </td>
@@ -71,10 +88,10 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>15.6 </td>
         <td>17.7 </td>
         <td>41.6 </td>
-        <td><font color=red><b>30.9</b></font></td>
+        <td><font color=red>30.9</font></td>
     </tr>
     <tr>
-        <th align="left"><font color=darkred>GPT-4o 🥉 </font></th>
+        <th align="left"><font color=darkred>GPT-4o  </font></th>
         <td align="middle">✘</td>
         <td>20.2 </td>
         <td>34.2 </td>
@@ -85,7 +102,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>11.5 </td>
         <td>22.5 </td>
         <td>34.2 </td>
-        <td><font color=red><b>27.8</b></font></td>
+        <td><font color=red>27.8</font></td>
     </tr>
     <tr>
         <th align="left"><font color=darkred>BlueLM-V-3B  </font></th>
@@ -99,7 +116,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>9.2 </td>
         <td>20.3 </td>
         <td>22.9 </td>
-        <td><font color=red> <b> 27.0 </b> </font> </td>
+        <td><font color=red>  27.0 </font> </td>
     </tr>
     <tr>
         <th align="left"><font color=darkred>Claude3 Opus  </font></th>
@@ -396,6 +413,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>6.6 </td>
     </tr>
 </table>
+
 
 
 ## :black_nib: Citation
