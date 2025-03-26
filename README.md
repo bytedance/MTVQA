@@ -33,7 +33,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
 
 ## 🏆 LeaderBoard
 
-<table style="width:75%;">
+<table style="width:80%;">
     <tr>
         <th>Models</th>
         <td><b>Open-Source</b></td>
@@ -46,21 +46,21 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td><b>RU</b></td>
         <td><b>TH</b></td>
         <td><b>VI</b></td>
-        <td><b>Average</b> </td>
+        <td><b>AVG.</b> </td>
     </tr>
     <tr>
         <th align="left"><font color=darkred>InternVL2.5 78B 🥇 </font></th>
         <td align="middle">✅ </td>
         <td> 15.9 </td>
         <td> 39.0 </td>
-        <td> <b>45.6</b> </td>
-        <td> 42.9 </td>
+        <td> 🏆<b>45.6</b> </td>
+        <td> 🏆<b>42.9</b> </td>
         <td> 21.1 </td>
         <td> 33.9 </td>
         <td> 12.2 </td>
-        <td> <b>23.8</b> </td>
+        <td> 🏆<b>23.8</b> </td>
         <td> 41.5 </td>
-        <td><font color=red><b>31.9</b></font></td>
+        <td><font color=red>🏆<b>31.9</b></font></td>
      </tr>
      <tr>
         <th align="left"><font color=darkred> Helpy-V Reasoning 🥈 </font></th>
@@ -70,7 +70,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>40.0 </td>
         <td>39.6 </td>
         <td>20.2 </td>
-        <td> <b>43.5</b> </td>
+        <td> 🏆<b>43.5</b> </td>
         <td> 13.6 </td>
         <td> 13.0 </td>
         <td> <b>46.6</b> </td>
@@ -79,13 +79,13 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
     <tr>
         <th align="left"><font color=darkred>Qwen2-VL 72B 🥉 </font></th>
         <td align="middle">✅ </td>
-        <td> <b> 20.7 </b> </td>
+        <td> 🏆<b> 20.7 </b> </td>
         <td>36.5 </td>
         <td>44.1 </td>
         <td>42.8 </td>
         <td>21.6 </td>
         <td>37.4 </td>
-        <td><b>15.6</b> </td>
+        <td>🏆<b>15.6</b> </td>
         <td>17.7 </td>
         <td>41.6 </td>
         <td><font color=red>30.9</font></td>
@@ -108,10 +108,10 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <th align="left"><font color=darkred>BlueLM-V-3B  </font></th>
         <td align="middle">✘</td>
         <td>17.3 </td>
-        <td><b>39.5</b> </td>
+        <td>🏆<b>39.5</b> </td>
         <td>44.7 </td>
         <td>32.2 </td>
-        <td><b>23.5</b> </td>
+        <td>🏆<b>23.5</b> </td>
         <td>34.0 </td>
         <td>9.2 </td>
         <td>20.3 </td>
@@ -315,7 +315,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>13.0  </td>
     </tr>
     <tr>
-        <th align="left">InternLM-Xcomposer2-4KHD</th>
+        <th align="left">Xcomposer2-4KHD</th>
         <td align="middle">✅</td>
         <td>2.0 </td>
         <td>20.6 </td>
