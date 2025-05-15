@@ -9,7 +9,7 @@ MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering
 |**[🍎 Project Page](https://bytedance.github.io/MTVQA/)** | **[📖 Paper](https://arxiv.org/abs/2405.11985)** |**[📊 Dataset](https://huggingface.co/datasets/ByteDance/MTVQA)** | **[🏆 Leaderboard](https://github.com/bytedance/MTVQA?tab=readme-ov-file#-leaderboard)** 
 
 ## 🔥 News
-* **`2025.03.25`** 🌟 MTVQA is accepted by ACL 2025！
+* **`2025.05.16`** 🌟 MTVQA is accepted by ACL 2025！
 * **`2025.03.25`** 🌟 The [Elice](https://elice.io/en) team from Korea tests their MLLM **Helpy-V Reasoning** on MTVQA. Helpy-V Reasoning ranks **Second** among all models, and notably, its performance in **Korean Text comprehension** is far superior to previous SOTA models. Congratulations to the Elice team!
 * 
 * **`2024.12.12`** 🌟 InternVL2.5 tests its performance on MTVQA, InternVL2.5 78B model outperforms Qwen2VL 76B and achieves the SOTA performance, congratulations to the [InternVL2.5](https://github.com/OpenGVLab/InternVL?tab=readme-ov-file) team!
